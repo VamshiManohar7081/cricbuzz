@@ -65,12 +65,11 @@ p{
     align-items: center;
     border-bottom-left-radius: 0.5rem;
     border-bottom-right-radius: 0.5rem;
+    margin-right: 1.1rem;
 }
 #part2 span{
     margin-right: 2rem;
     font-size: 1.1rem;
     
 }
-.vam{
-   
-}
+
